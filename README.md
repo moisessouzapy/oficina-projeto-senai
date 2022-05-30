@@ -20,12 +20,12 @@ O sistema possibilita cadastrar clientes, funcionarios, orçamentos e ordem de s
 - Ter o [sqlite-jdbc](https://github.com/xerial/sqlite-jdbc/releases) configurado na IDE.
 - Ter algum editor de códigos ou IDE como o [NetBeans](https://netbeans.apache.org/download/nb13/nb13.html). 
 
-Caso opte por utilizar o JDK 17 ou superior, o processo de execução do aplicativo funcionará abrindo a pasta `dist` e em seguida executar o arquivo `Oficina.jar`. Caso contrário deverá instalar o NetBeans e configurar o `sqlite-jdbc`, o processo de execução do aplicativo funcionará através de um botão de play na parte superior que ambas dispõem.
+Caso queira instalar o NetBeans e configurar o `sqlite-jdbc`, o processo de execução do aplicativo funcionará através de um botão de play na parte superior que ambas dispõem.
 
 Logins (Usuario / Senha):
-- Gerente: Levi / 123
-- Mecanico: Vini / 123
-- Recepcionista: Roberto / 123
+- Gerente: admin / 12345
+- Mecanico: mecanico / 12345
+- Recepcionista: recepcionista / 12345
 
 ## ⭐ Créditos
 - Template de readme: https://github.com/alura-cursos/flutter-nuvigator/blob/start/README.md
