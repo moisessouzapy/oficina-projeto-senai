@@ -5,7 +5,9 @@ O sistema é uma aplicação para auxiliar no gerenciamento de oficinas. A aplic
 ## 🔨 Funcionalidades do projeto
 O sistema possibilita cadastrar clientes, funcionarios, orçamentos e ordem de serviço. Esses dados que são cadastrados ficam armazenado no banco de dados relacional(SQLITE).
 
-![videoSistema]()
+!https://user-images.githubusercontent.com/86939796/172086319-7dfd5475-4b7c-4755-9d92-666be4d8bfc2.mp4
+
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 - `banco de dados relacional`: leitura de dados e escrita no banco de dados SQLITE.
