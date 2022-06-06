@@ -5,7 +5,7 @@ O sistema é uma aplicação para auxiliar no gerenciamento de oficinas. A aplic
 ## 🔨 Funcionalidades do projeto
 O sistema possibilita cadastrar clientes, funcionarios, orçamentos e ordem de serviço. Esses dados que são cadastrados ficam armazenado no banco de dados relacional(SQLITE).
 
-!![2022-05-30-15-00-46_1_-_online-video-cutter com_-_1_](https://user-images.githubusercontent.com/86939796/172086827-faa24893-a4ea-4260-970a-a84d04546f3e.gif)
+![2022-05-30-15-00-46_1_-_online-video-cutter com_-_1_](https://user-images.githubusercontent.com/86939796/172086827-faa24893-a4ea-4260-970a-a84d04546f3e.gif)
 
 
 
